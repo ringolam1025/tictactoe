@@ -1,25 +1,37 @@
 # Tic Tac Toe
-Tic Tac Toe app (this app) allow a player to host or join game with other players via internet. Players can enjoy the real-time gaming. The game result of each round will be counted until players leave the game room. Also, players can chat in the gaming room. 
+*Tic Tac Toe* (this app) allow a player to host or join game with other players via internet. Players can enjoy the real-time gaming. The game result of each round will be counted until players leave the game room. Also, players can chat in the gaming room. 
 
 
-## Main Functions
-The *THREE* main functions and the flow are shown as below: 
+## Main Functions screens
+1. Login <br>
+<img src="./assets/images/Screen/Login.png" width="400px">
 
-### Base
-Player needs to registrarion an account before start a game, when account has been created. Players can login the app and start a game. And players can create or join a game room by select function in game lobby. 
-![Registration](/assets/images/Flow_Registration.png "Registration")
-![Login](/assets/images/Flow_Login.png "Login")
-![Flow_Create_Room](/assets/images/Flow_Create_Room.png "Create_Room")
-![Flow_Join_Room](/assets/images/Flow_Join_Room.png "Join_Room")
-![Flow_Chatroom](/assets/images/Flow_Chatroom.png)
+1. Signup <br>
+<img src="./assets/images/Screen/Signup.png" width="400px">
 
-### Gaming Judgment
-![Flow_Judgment](/assets/images/Flow_Judgment.png "Judgment")
+1. Game Lobby<br>
+<img src="./assets/images/Screen/Game_Lobby.png" width="400px">
+
+1. Join game <br>
+<img src="./assets/images/Screen/Join_game.png" width="400px">
+
+1. Create game<br>
+<img src="./assets/images/Screen/Create_game.png" width="400px">
+
+1. Cross is winner <br>
+<img src="./assets/images/Screen/Cross_Win.png" width="400px">
+
+1. Circle is winner <br>
+<img src="./assets/images/Screen/Circle_win.png" width="400px">
+
+1. Tie (no winner)<br>
+<img src=".s/images/Screen/Tie.png" width="400px">
+
+1. Viewer mode<br>
+<img src="./assets/images/Screen/Viewer.png" width="400px">
+
+1. Chatroom <br>
+<img src="./assets/images/Screen/Chatroom.png" width="400px">
 
 
-## Developer
-- MySQL
-- Node / Yarn
-- Expo (Optional)
-- [Forver (Optional)](https://andy6804tw.github.io/2018/01/17/api-forever/#%E5%9F%BA%E6%9C%AC%E6%8C%87%E4%BB%A4)
 
