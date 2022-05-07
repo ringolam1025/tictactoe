@@ -25,7 +25,7 @@
 <img src="./assets/images/Screen/Circle_win.png" width="400px">
 
 1. Tie (no winner)<br>
-<img src=".s/images/Screen/Tie.png" width="400px">
+<img src="./assets/images/Screen/Tie.png" width="400px">
 
 1. Viewer mode<br>
 <img src="./assets/images/Screen/Viewer.png" width="400px">
