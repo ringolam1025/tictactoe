@@ -3,35 +3,35 @@
 
 
 ## Main Functions screens
-1. Login <br>
-<img src="./assets/images/Screen/Login.png" width="400px">
+Login <br>
+<img src="./assets/images/Screen/Login.png" width="250px">
 
-1. Signup <br>
-<img src="./assets/images/Screen/Signup.png" width="400px">
+Signup <br>
+<img src="./assets/images/Screen/Signup.png" width="250px">
 
-1. Game Lobby<br>
-<img src="./assets/images/Screen/Game_Lobby.png" width="400px">
+Game Lobby<br>
+<img src="./assets/images/Screen/Game_Lobby.png" width="250px">
 
-1. Join game <br>
-<img src="./assets/images/Screen/Join_game.png" width="400px">
+Join game <br>
+<img src="./assets/images/Screen/Join_game.png" width="250px">
 
-1. Create game<br>
-<img src="./assets/images/Screen/Create_game.png" width="400px">
+Create game<br>
+<img src="./assets/images/Screen/Create_game.png" width="250px">
 
-1. Cross is winner <br>
-<img src="./assets/images/Screen/Cross_Win.png" width="400px">
+Cross is winner <br>
+<img src="./assets/images/Screen/Cross_Win.png" width="250px">
 
-1. Circle is winner <br>
-<img src="./assets/images/Screen/Circle_win.png" width="400px">
+Circle is winner <br>
+<img src="./assets/images/Screen/Circle_win.png" width="250px">
 
-1. Tie (no winner)<br>
-<img src="./assets/images/Screen/Tie.png" width="400px">
+Tie (no winner)<br>
+<img src="./assets/images/Screen/Tie.png" width="250px">
 
-1. Viewer mode<br>
-<img src="./assets/images/Screen/Viewer.png" width="400px">
+Viewer mode<br>
+<img src="./assets/images/Screen/Viewer.png" width="250px">
 
-1. Chatroom <br>
-<img src="./assets/images/Screen/Chatroom.png" width="400px">
+Chatroom <br>
+<img src="./assets/images/Screen/Chatroom.png" width="250px">
 
 
 
