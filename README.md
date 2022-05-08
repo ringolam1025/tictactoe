@@ -1,6 +1,16 @@
 # Tic Tac Toe
 *Tic Tac Toe* (this app) allow a player to host or join game with other players via internet. Players can enjoy the real-time gaming. The game result of each round will be counted until players leave the game room. Also, players can chat in the gaming room. 
 
+## Technical used
+
+1. React Native
+    - Use Javascript to develop a cross platforms mobile app. 
+
+1. Websocket 
+    - Handle the real-time communication between devices and devices.
+
+1. MySQL Database
+    - Used to storing user login information
 
 ## Main Functions screens
 Login <br>
